@@ -1,0 +1,48 @@
+form {
+    background-color: rgb(185, 56, 56);
+    margin: 5px;
+    border-style: solid;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+ h4 {
+     background-color: rgb(59, 155, 59);
+     display: inline;
+     margin: px;
+     padding: 5px 5px 5px 5px;
+ }
+
+ p {
+    background-color: rgb(97, 97, 224);
+    display: inline;
+    padding: 50px  10px 20px;
+    border-style: solid;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+ div {
+    margin: 10px;
+    background-color: rgb(235, 156, 10);
+    padding: 10px;
+    border-style: solid;
+    border-radius: 5px;
+
+}
+
+   select {
+       margin: 10px;
+   }
+
+   button {
+       margin: 10px;
+       border: 2px solid;
+       border-radius: 5px;
+        background-color: black;
+          color: rgb(255, 255, 255);
+      
+        
+   }
+
+
